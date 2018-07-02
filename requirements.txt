@@ -1,0 +1,10 @@
+cloudconvert==1.0.0
+Flask==0.12.1
+Flask-API==1.0
+Flask-Cors==3.0.2
+jsonschema==2.6.0
+numpy==1.14.0
+requests==2.4.3
+requests-toolbelt==0.8.0
+scipy==1.0.0
+waitress==1.1.0
